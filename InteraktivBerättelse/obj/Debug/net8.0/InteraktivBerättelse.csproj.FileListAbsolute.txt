@@ -1,0 +1,5 @@
+c:\Ämnen\Teknik 1\Programering\vb\InteraktivBerättelse\InteraktivBerättelse\obj\Debug\net8.0\InteraktivBerättelse.GeneratedMSBuildEditorConfig.editorconfig
+c:\Ämnen\Teknik 1\Programering\vb\InteraktivBerättelse\InteraktivBerättelse\obj\Debug\net8.0\InteraktivBerättelse.AssemblyInfoInputs.cache
+c:\Ämnen\Teknik 1\Programering\vb\InteraktivBerättelse\InteraktivBerättelse\obj\Debug\net8.0\InteraktivBerättelse.AssemblyInfo.cs
+c:\Ämnen\Teknik 1\Programering\vb\InteraktivBerättelse\InteraktivBerättelse\obj\Debug\net8.0\InteraktivBerättelse.csproj.CoreCompileInputs.cache
+c:\Ämnen\Teknik 1\Programering\vb\InteraktivBerättelse\InteraktivBerättelse\obj\Debug\net8.0\InteraktivBerättelse.sourcelink.json

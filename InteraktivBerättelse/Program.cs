@@ -33,4 +33,5 @@
                 // Hantering av ogiltigt val
                 Console.WriteLine("Ogiltigt val. Spelet avslutas.");
             }
-            
+        }      
+        else if (val1 == "höger")
