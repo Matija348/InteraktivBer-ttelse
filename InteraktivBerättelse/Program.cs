@@ -1,11 +1,14 @@
-﻿
-// Introduktion
- Console.WriteLine("Du befinner dig i en mystisk skog och stöter på en korsning.");
- Console.WriteLine("Vill du gå till vänster eller höger? (vänster/höger)");
+﻿{
+    
+    {
+        // Introduktion
+        Console.WriteLine("Du befinner dig i en mystisk skog och stöter på en korsning.");
+        Console.WriteLine("Vill du gå till vänster eller höger? (vänster/höger)");
 
- // Användarens första beslut
- string val1 = Console.ReadLine().ToLower();
-  // Kollar användarens första val
+        // Användarens första beslut
+        string val1 = Console.ReadLine().ToLower();
+
+        // Kollar användarens första val
         if (val1 == "vänster")
         {
             // Användaren valde att gå till vänster
@@ -30,4 +33,4 @@
                 // Hantering av ogiltigt val
                 Console.WriteLine("Ogiltigt val. Spelet avslutas.");
             }
-        }
+            
