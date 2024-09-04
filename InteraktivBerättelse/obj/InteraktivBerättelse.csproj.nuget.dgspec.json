@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Ämnen\\Teknik 1\\Programering\\vb\\InteraktivBerättelse\\InteraktivBerättelse\\InteraktivBerättelse.csproj": {}
+    "C:\\Ämnen\\Teknik 1\\Programering\\vb\\InteraktivBerättelse\\InteraktivBerättelse\\InteraktivBerättelse.csproj": {}
   },
   "projects": {
-    "c:\\Ämnen\\Teknik 1\\Programering\\vb\\InteraktivBerättelse\\InteraktivBerättelse\\InteraktivBerättelse.csproj": {
+    "C:\\Ämnen\\Teknik 1\\Programering\\vb\\InteraktivBerättelse\\InteraktivBerättelse\\InteraktivBerättelse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Ämnen\\Teknik 1\\Programering\\vb\\InteraktivBerättelse\\InteraktivBerättelse\\InteraktivBerättelse.csproj",
+        "projectUniqueName": "C:\\Ämnen\\Teknik 1\\Programering\\vb\\InteraktivBerättelse\\InteraktivBerättelse\\InteraktivBerättelse.csproj",
         "projectName": "InteraktivBerättelse",
-        "projectPath": "c:\\Ämnen\\Teknik 1\\Programering\\vb\\InteraktivBerättelse\\InteraktivBerättelse\\InteraktivBerättelse.csproj",
+        "projectPath": "C:\\Ämnen\\Teknik 1\\Programering\\vb\\InteraktivBerättelse\\InteraktivBerättelse\\InteraktivBerättelse.csproj",
         "packagesPath": "C:\\Users\\matija.zezelj\\.nuget\\packages\\",
-        "outputPath": "c:\\Ämnen\\Teknik 1\\Programering\\vb\\InteraktivBerättelse\\InteraktivBerättelse\\obj\\",
+        "outputPath": "C:\\Ämnen\\Teknik 1\\Programering\\vb\\InteraktivBerättelse\\InteraktivBerättelse\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

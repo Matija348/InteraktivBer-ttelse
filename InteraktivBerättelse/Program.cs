@@ -35,3 +35,34 @@
             }
         }      
         else if (val1 == "höger")
+         {
+            // Användaren valde att gå till höger
+            Console.WriteLine("Du går till höger och möter en mystisk trollkarl. Vill du lyssna eller ignorera honom? (lyssna/ignorera)");
+            string val2 = Console.ReadLine().ToLower();
+
+            // Kollar användarens andra val efter att ha gått höger
+            if (val2 == "lyssna")
+            {
+                // Användaren valde att lyssna
+                Console.WriteLine("Trollkarlen ger dig en gåva som gör dig till kung över hela riket!");
+                Console.WriteLine("SLUT: Du blev kung och levde lycklig i alla dina dagar.");
+            }
+            else if (val2 == "ignorera")
+            {
+                // Användaren valde att ignorera
+                Console.WriteLine("Du ignorerar trollkarlen och går vidare, men går vilse i skogen.");
+                Console.WriteLine("SLUT: Du hittar aldrig vägen ut och går vilse för alltid.");
+            }
+            else
+            {
+                // Hantering av ogiltigt val
+                Console.WriteLine("Ogiltigt val. Spelet avslutas.");
+            }
+        }
+        else
+        {
+            // Hantering av ogiltigt val vid första beslutet
+            Console.WriteLine("Ogiltigt val. Spelet avslutas.");
+        }
+    }
+}   
