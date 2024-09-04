@@ -3,3 +3,13 @@ c:\Ämnen\Teknik 1\Programering\vb\InteraktivBerättelse\InteraktivBerättelse\o
 c:\Ämnen\Teknik 1\Programering\vb\InteraktivBerättelse\InteraktivBerättelse\obj\Debug\net8.0\InteraktivBerättelse.AssemblyInfo.cs
 c:\Ämnen\Teknik 1\Programering\vb\InteraktivBerättelse\InteraktivBerättelse\obj\Debug\net8.0\InteraktivBerättelse.csproj.CoreCompileInputs.cache
 c:\Ämnen\Teknik 1\Programering\vb\InteraktivBerättelse\InteraktivBerättelse\obj\Debug\net8.0\InteraktivBerättelse.sourcelink.json
+c:\Ämnen\Teknik 1\Programering\vb\InteraktivBerättelse\InteraktivBerättelse\bin\Debug\net8.0\InteraktivBerättelse.exe
+c:\Ämnen\Teknik 1\Programering\vb\InteraktivBerättelse\InteraktivBerättelse\bin\Debug\net8.0\InteraktivBerättelse.deps.json
+c:\Ämnen\Teknik 1\Programering\vb\InteraktivBerättelse\InteraktivBerättelse\bin\Debug\net8.0\InteraktivBerättelse.runtimeconfig.json
+c:\Ämnen\Teknik 1\Programering\vb\InteraktivBerättelse\InteraktivBerättelse\bin\Debug\net8.0\InteraktivBerättelse.dll
+c:\Ämnen\Teknik 1\Programering\vb\InteraktivBerättelse\InteraktivBerättelse\bin\Debug\net8.0\InteraktivBerättelse.pdb
+c:\Ämnen\Teknik 1\Programering\vb\InteraktivBerättelse\InteraktivBerättelse\obj\Debug\net8.0\InteraktivBerättelse.dll
+c:\Ämnen\Teknik 1\Programering\vb\InteraktivBerättelse\InteraktivBerättelse\obj\Debug\net8.0\refint\InteraktivBerättelse.dll
+c:\Ämnen\Teknik 1\Programering\vb\InteraktivBerättelse\InteraktivBerättelse\obj\Debug\net8.0\InteraktivBerättelse.pdb
+c:\Ämnen\Teknik 1\Programering\vb\InteraktivBerättelse\InteraktivBerättelse\obj\Debug\net8.0\InteraktivBerättelse.genruntimeconfig.cache
+c:\Ämnen\Teknik 1\Programering\vb\InteraktivBerättelse\InteraktivBerättelse\obj\Debug\net8.0\ref\InteraktivBerättelse.dll
