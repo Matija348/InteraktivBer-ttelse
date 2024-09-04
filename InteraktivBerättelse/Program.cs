@@ -35,7 +35,7 @@
             }
         }      
         else if (val1 == "höger")
-         {
+        {
             // Användaren valde att gå till höger
             Console.WriteLine("Du går till höger och möter en mystisk trollkarl. Vill du lyssna eller ignorera honom? (lyssna/ignorera)");
             string val2 = Console.ReadLine().ToLower();
@@ -67,4 +67,3 @@
     }
 }   
 
-Console.ReadLine
